@@ -6,7 +6,7 @@ A responsive student portal built using **React**, **TypeScript**, **Tailwind CS
 
 ## 🌐 Live Demo
 
-🔗 **[View Student Portal](https://student-portal-msc.netlify.app/login)**
+🔗 **[View Student Portal](https://student-portal-msc.netlify.app/)**
 
 ---
 
