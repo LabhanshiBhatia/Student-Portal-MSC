@@ -6,7 +6,7 @@ A responsive student portal built using **React**, **TypeScript**, **Tailwind CS
 
 ## 🌐 Live Demo
 
-🔗 **[View Student Portal](https://unrivaled-lebkuchen-7b817d.netlify.app/dashboard)**
+🔗 **[View Student Portal]([https://unrivaled-lebkuchen-7b817d.netlify.app/dashboard](https://unrivaled-lebkuchen-7b817d.netlify.app/login))**
 
 ---
 
