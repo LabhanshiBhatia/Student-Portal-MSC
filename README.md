@@ -82,13 +82,13 @@ This project is built with:
 
 ### 🔐 Login Page
 
-![Login Page](screenshot\login.png)
+![Login Page](screenshot/login.png)
 
 ---
 
 ### 📊 Dashboard Page
 
-![Dashboard Page](screenshot\dashboard.png)
+![Dashboard Page](screenshot/dashboard.png)
 
 ---
 
